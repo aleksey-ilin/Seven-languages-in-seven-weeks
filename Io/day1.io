@@ -23,3 +23,7 @@ true and ""
 true and nil
 
 // → false
+
+// Execute the code in a slot given its name.
+
+// I have not understood what should I do.
