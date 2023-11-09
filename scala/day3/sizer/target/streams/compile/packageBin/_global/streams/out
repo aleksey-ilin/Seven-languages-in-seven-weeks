@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/sizer_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$PageLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$PageLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$Protocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$Protocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$PageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$GetLinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$GetLinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$LinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$LinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$GetPageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$PageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes/Main$Page$GetPageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

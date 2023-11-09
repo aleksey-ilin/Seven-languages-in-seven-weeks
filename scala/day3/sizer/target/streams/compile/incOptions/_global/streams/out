@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$PageLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$Protocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetPageSize$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$PageLoader$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$GetLinksCount$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$Protocol.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$PageSize$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Page$LinksCount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/user/projects/seven-languages-in-seven-weeks/scala/day3/sizer/target/scala-3.2.2/classes.bak[0m
