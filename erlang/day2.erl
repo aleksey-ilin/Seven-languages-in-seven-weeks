@@ -67,8 +67,8 @@ get_tic_tac_toe_result_2([Val, _, _, _, Val, _, _, _, Val]) when Val == x; Val =
 get_tic_tac_toe_result_2([_, _, Val, _, Val, _, Val, _, _]) when Val == x; Val == o -> Val;
 
 get_tic_tac_toe_result_2(Board) ->
-  BoardHasNotEmptyValue = lists:all(fun(Val) -> (Val == x) or (Val == o) end, Board),
-  is_more_possible_moves(BoardHasNotEmptyValue).
+  BoardFull = lists:all(fun(Val) -> (Val == x) or (Val == o) end, Board),
+  is_more_possible_moves(BoardFull).
 
 % winner x
 % day2:get_tic_tac_toe_result_2([x, x, x, o, 1, o, o, 1, 1]).
